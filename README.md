@@ -1,1 +1,1 @@
-# run-buddy-update
+# Run Buddy Inc.
