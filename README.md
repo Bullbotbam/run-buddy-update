@@ -12,3 +12,4 @@ https://bullbotbam.github.io/run-buddy-update/
 
 ## Contribution
 Made with ❤️ by [Donald Bull]
+### ©️2021 Run Buddy, Inc 
