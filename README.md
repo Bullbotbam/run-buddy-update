@@ -1,19 +1,16 @@
-<<<<<<< HEAD
-# Run Buddy Inc.
-=======
-# Run Buddy
+# Run Buddy, Inc
 
 ## Purpose
-A website that offers fitness training services.
+A website that offers fitness training services. 
 
 ## Built With
 * HTML
 * CSS
 
 ## Website
-https://bullbotbam.github.io/run-buddy-update/
+https://lernantino.github.io/run-buddy/
 
 ## Contribution
-Made with ❤️ by Donald Bull
-### ©️2021 Run Buddy, Inc 
->>>>>>> 4c1a20b5d8734a71e0501bd75b6f72e077179159
+Made with ❤️ by [your name]
+
+### ©️2019 Run Buddy, Inc 
