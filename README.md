@@ -1,11 +1,6 @@
 
-# Run Buddy, Inc
-
-
-# Run Buddy Inc.
-
 # Run Buddy
-![run-buddy-update-1](https://github.com/Bullbotbam/run-buddy-update/blob/main/assets/images/run-buddy-update-1.png)
+This apps files were a bit messy when received.  I adjusted files as necessary to make for a clean user experience.
 
 
 
@@ -17,16 +12,14 @@ A website that offers fitness training services.
 * CSS
 
 ## Website
-
-https://lernantino.github.io/run-buddy/
-
-## Contribution
-Made with ❤️ by [your name]
-
-### ©️2019 Run Buddy, Inc 
-
-
 https://bullbotbam.github.io/run-buddy-update/
+
+## Usage
+
+![run-buddy-update-1](https://github.com/Bullbotbam/run-buddy-update/blob/main/assets/images/run-buddy-update-1.png)
+
+
+
 
 ## Contribution
 Made with ❤️ by Donald Bull
