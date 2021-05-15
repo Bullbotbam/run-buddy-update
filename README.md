@@ -6,7 +6,6 @@
 
 # Run Buddy
 ![run-buddy-update-1](https://github.com/Bullbotbam/run-buddy-update/blob/main/assets/images/run-buddy-update-1.png)
-![run-buddy-update-1](https://github.com/Bullbotbam/run-buddy-update/blob/main/assets/images/run-buddy-update-2.png)
 
 
 
